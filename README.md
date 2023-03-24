@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ahmad, a back-end && front-end engineer with over 6 years of experience and demonstrated history of working on small to large projects.
+I'm Ahmad, a back-end && front-end engineer with over 3 years of experience and demonstrated history of working on small to large projects.
 
 
 <!--
