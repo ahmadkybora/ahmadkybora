@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-It’s ahmad montazeri
+I'm Ahmad, a back-end && front-end engineer with over 6 years of experience and demonstrated history of working on small to large projects.
+
+
 <!--
 **ahmadkybora/ahmadkybora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
