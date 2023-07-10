@@ -35,6 +35,7 @@ I have also researched and used some of the following languages, frameworks and 
 <img src="https://img.shields.io/badge/c-5E97D0?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/csharp-CBC3E3?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
