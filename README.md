@@ -16,7 +16,7 @@ Languages, frameworks and libraries that I use: 👇&nbsp;
 <img src="https://img.shields.io/badge/SCSS-BF4080?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-79B461?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=nextjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 </p>
 
