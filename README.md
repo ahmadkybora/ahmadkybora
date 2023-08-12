@@ -9,14 +9,14 @@ I always seek to have a great impact on processes, code structure, and solutions
 <p align="left">
 Languages, frameworks and libraries that I use: 👇&nbsp;
 <div>
-<img src="https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-BF4080?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-79B461?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=nextjs&logoColor=white" />
 </div>
 </p>
 
@@ -29,20 +29,39 @@ I also use these tools:&nbsp;
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-DB4128?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C85?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 </p>
 
 <p>
 Languages, frameworks and libraries that I have used and researched in the past:&nbsp;
 <div>
+<img src="https://img.shields.io/badge/c-8993be?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-8993be?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp-CBC3E3?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/java-8993be?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-79B461?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=nextjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-5AC193?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vuetify.js-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adonis.js-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white"
+/>
+<img src="https://img.shields.io/badge/SCSS-BF4080?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
