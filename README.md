@@ -71,3 +71,30 @@ Languages, frameworks and libraries that I have used and researched in the past:
 </div>
 </div>
 </p>
+
+<hr />
+
+## Github stats 📊 
+
+<summary>Profile Views 👁️</summary>
+  <br/>
+
+<details open="open"> 
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+
+  <div style="display: flex; flex-flow: row wrap; gap: 10px;">
+
+  </div>
+
+  <br/>
+</details>
+
+<details open="open">
+  <summary>Activity Graph 📈</summary>
+  <br/>
+</details>
+
+
+<br />
+<br />
