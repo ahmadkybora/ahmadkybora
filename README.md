@@ -159,6 +159,8 @@ Languages, frameworks and libraries and tools that I have used or researched in 
 <summary>Profile Views 👁️</summary>
   <br/>
 
+  ![](https://komarev.com/ghpvc/?username=ahmadkybora&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+
 <details open="open"> 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
