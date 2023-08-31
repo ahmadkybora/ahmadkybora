@@ -1,6 +1,14 @@
 ## Hey! It's Andre Kybora.
 
-<p align="justify"> 
+<div align="left">
+
+[![Linkedin](https://img.shields.io/badge/ahmadmontazeri-0A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-montazeri-934b88198/)
+[![github](https://img.shields.io/badge/ahmadkybora-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadkybora)
+[![Twitter](https://img.shields.io/badge/myneisahmad-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/myneisahmad)
+
+</div>
+
+<p align="justify">
 I'm Andre Kybora, (Ahmad montazeri is real name) a front-end and back-end engineer with over 4 years of experience and demonstrated history of working on small to large projects. <strong>I help companies and teams to build quality, tested, and maintainable products</strong>. I'm constantly looking for new solutions, modern tools, and improving the current performance of the system.
 
 I always seek to have a great impact on processes, code structure, and solutions. Love open-source, Linux, Research and Development, and problem-solving.
