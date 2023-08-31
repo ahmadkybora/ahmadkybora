@@ -1,4 +1,6 @@
-## Hey! It's Andre Kybora.
+<div align="center">
+    <img src="./header.svg" alt="Andre Kybora">
+</div>
 
 <div align="left">
 
