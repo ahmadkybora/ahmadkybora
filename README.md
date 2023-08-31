@@ -167,6 +167,10 @@ Languages, frameworks and libraries and tools that I have used or researched in 
 
   <div style="display: flex; flex-flow: row wrap; gap: 10px;">
 
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadkybora&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40&cache_seconds=10800)](https://github.com/ahmadkybora/ahmadkybora)
+  
+  [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkybora&langs_count=20&theme=tokyonight&cache_seconds=10800)](https://github.com/ahmadkybora/ahmadkybora)
+
   </div>
 
   <br/>
