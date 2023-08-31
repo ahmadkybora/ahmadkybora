@@ -76,6 +76,12 @@ Languages, frameworks and libraries that I have used and researched in the past:
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-DB4128?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C85?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongodb-239120?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/unrealengine-black?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeVisionAVR-DB4128?style=for-the-badge&logo=avr&logoColor=white">
+
 </div>
 </div>
 </p>
