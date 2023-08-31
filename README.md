@@ -176,11 +176,5 @@ Languages, frameworks and libraries and tools that I have used or researched in 
   <br/>
 </details>
 
-<details open="open">
-  <summary>Activity Graph 📈</summary>
-  <br/>
-</details>
-
-
 <br />
 <br />
